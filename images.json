@@ -1,0 +1,10 @@
+{
+	"bg" : "img/BG.png",
+	"sym" : ["img/SYM1.png", "img/SYM3.png", "img/SYM4.png", "img/SYM5.png",
+		   "img/SYM6.png", "img/SYM7.png"],
+	"btnSpin" : {
+		"active" : "img/BTN_Spin.png",
+		"disabled" : "img/BTN_Spin_d.png"
+	},
+	"betLine" : "img/Bet_Line.png"
+}
